@@ -48,7 +48,7 @@ Insert in the menu the number 1 for start install and wait.
 [+] The Installation is operational
 
 [1] Install full lab
-[2] When the lab is installed, do you want to start machines ?
+[2] Do you wan start the machine after the lab is install ?
 [3] Remove all lab and restore original configuration
 
 [?] Give your choice
