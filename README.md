@@ -1,9 +1,3 @@
-# Requirement
-- wget 
-- 7za
-- unzip 
-- vmware fusion
-- vmrun 
 
 # Virtualized infrastructure lab
 NOTE: This page under construction!
