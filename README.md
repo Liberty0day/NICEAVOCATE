@@ -38,3 +38,17 @@ sudo ./install.sh
 Insert in the menu the number 1 for start install and wait.
 
 # Example
+```
+--[ niceavocate 0.0.3
+[+] The Installation is operational
+
+[1] Install full lab
+[2] If lab is installed, do you whant start machines ?
+[3] Remove all lab and restore original configuration
+
+[?] Give me your choice
+[!] Example : 1
+```
+```
+ 1
+ ```
