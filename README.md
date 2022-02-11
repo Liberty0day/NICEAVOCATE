@@ -1,6 +1,7 @@
 
 # Virtualized infrastructure lab
 NOTE: This page under construction!
+
 This page provides guidance for install a lab with :
 - Windows 7
 - Windows 10
