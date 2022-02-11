@@ -21,7 +21,7 @@ This page provides guidance to install a lab :
 | MENU    | Menu for start or stop machines |
 
 # The Process
-This script he :
+
 1. Download all machines
 2. Convert windows 7 and windows 10 to be compatible for vmware
 3. Import windows 7, windows 10, Kali, Metasploitable 2 to the library of vmware fusion
