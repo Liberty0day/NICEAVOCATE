@@ -28,7 +28,7 @@ This page provides guidance to install a lab :
 4. After install you have a menu for starting or stopping all virtualized machines.
 
 ## Preliminaries
-you need install this tools :
+You need install this tools :
 - wget
 - 7za
 - unzip
