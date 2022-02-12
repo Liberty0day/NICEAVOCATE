@@ -29,6 +29,7 @@ This page provides guidance to install a lab :
 
 ## Preliminaries
 You need install this tools :
+- zsh
 - wget
 - 7za
 - unzip
