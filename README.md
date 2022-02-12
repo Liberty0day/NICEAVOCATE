@@ -34,6 +34,7 @@ You need install this tools :
 - unzip
 - vmware fusion
 - vmrun
+- openssl 
 
 ## Creating lab
 Lunch install
