@@ -36,7 +36,7 @@ You need install this tools :
 - vmrun
 
 ## Creating lab
-Lunch install with sudo
+Lunch install
 ```
 ./install.sh
 ```
