@@ -38,7 +38,7 @@ you need install this tools :
 ## Creating lab
 Lunch install with sudo
 ```
-sudo ./install.sh
+./install.sh
 ```
 Insert in the menu the number 1 for start install and wait.
 
