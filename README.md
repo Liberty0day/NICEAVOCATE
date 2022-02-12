@@ -17,7 +17,7 @@ This page provides guidance to install a lab :
 | IMPORT | Import windows 7, windows 10, Kali, Metasploitable 2 to the library of vmware fusion |
 | CONFIGURE | Disable message box, update network , update port forwarding |
 | INSTALL | Exec function DL CONVERT IMPORT CONFIGURE |
-| MENU_INSTALL | Menu for start install, Start or stop machines, remove all lab  |
+| MENU_INSTALL | Menu for start install, start or stop machines, remove all lab  |
 | MENU    | Menu for start or stop machines |
 
 ## The Process
