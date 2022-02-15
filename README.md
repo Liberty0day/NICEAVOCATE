@@ -46,6 +46,9 @@ Lunch install
 Insert in the menu the number 1 for start install and wait.
 
 ## Example
+
+### MENU_INSTALL
+
 ```
 --[ niceavocate 0.0.3
 [+] The Installation is operational
@@ -60,3 +63,30 @@ Insert in the menu the number 1 for start install and wait.
 ```
  1
  ```
+ ### MENU
+ ```
+--[ niceavocate 0.0.3
+1) Windows 7 2) Windows 10 3) Kali Linux 4) Metasploitable 2
+5) Start or stop all machine of the lab
+
+[?] Give me your choice
+[!] Example : 1
+```
+```
+ 1
+```
+### REMOVE_LAB
+ ```
+ ```
+--[ niceavocate 0.0.3
+[+] Remove all machines 
+  1)  Remove all machines 2) Remove step by step
+
+[?] Give me your choice
+[!] Example : 1
+```
+```
+ 1
+```
+
+  
