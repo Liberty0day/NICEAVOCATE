@@ -12,13 +12,14 @@ This page provides guidance to install a lab :
 
 | Tasks | Description |
 | ------ | ----------- |
-| DL   | Download all machines |
-| CONVERT | Convert windows 7 and windows 10 to be compatible for vmware |
-| IMPORT | Import windows 7, windows 10, Kali, Metasploitable 2 to the library of vmware fusion |
-| CONFIGURE | Disable message box, update network , update port forwarding |
-| INSTALL | Exec function DL CONVERT IMPORT CONFIGURE |
-| MENU_INSTALL | Menu for start install, start or stop machines, remove all lab  |
-| MENU    | Menu for start or stop machines |
+| DL        | Download all machines |
+| CONVERT   | Convert windows machines to be compatible for vmware |
+| IMPORT    | Import machines to the library of vmware fusion |
+| CONFIGURE    | Disable message box, update network , update port forwarding |
+| INSTALL      | Exec function DL CONVERT IMPORT CONFIGURE |
+| MENU_INSTALL | start install, start or stop machines, remove all lab |
+| MENU | start or stop machines |
+| REMOVE_LAB | Menu remove all machines |
 
 ## The Process
 
