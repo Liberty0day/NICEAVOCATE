@@ -12,14 +12,14 @@ This page provides guidance to install a lab :
 
 | Tasks | Description |
 | ------ | ----------- |
-| DL        | Download all machines |
-| CONVERT   | Convert windows machines to be compatible for vmware |
-| IMPORT    | Import machines to the library of vmware fusion |
+| DL           | Download all machines |
+| CONVERT      | Convert windows machines to be compatible for vmware |
+| IMPORT       | Import machines to the library of vmware fusion |
 | CONFIGURE    | Disable message box, update network , update port forwarding |
 | INSTALL      | Exec function DL CONVERT IMPORT CONFIGURE |
-| MENU_INSTALL | start install, start or stop machines, remove all lab |
-| MENU | start or stop machines |
-| REMOVE_LAB | Menu remove all machines |
+| MENU_INSTALL | Start install, start or stop machines, remove all lab |
+| MENU         | Start or stop machines |
+| REMOVE_LAB   | Remove all machines |
 
 ## The Process
 
