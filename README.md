@@ -60,10 +60,12 @@ Insert in the menu the number 1 for start install and wait.
 [?] Give your choice
 [!] Example : 1
 ```
+
 ```
  1
  ```
  ### MENU
+ 
  ```
 --[ niceavocate 0.0.3
 1) Windows 7 2) Windows 10 3) Kali Linux 4) Metasploitable 2
@@ -72,11 +74,12 @@ Insert in the menu the number 1 for start install and wait.
 [?] Give me your choice
 [!] Example : 1
 ```
+
 ```
  1
 ```
 ### REMOVE_LAB
- ```
+
  ```
 --[ niceavocate 0.0.3
 [+] Remove all machines 
@@ -85,6 +88,7 @@ Insert in the menu the number 1 for start install and wait.
 [?] Give me your choice
 [!] Example : 1
 ```
+
 ```
  1
 ```
