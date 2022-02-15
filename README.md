@@ -39,7 +39,7 @@ You need install this tools :
 - openssl 
 
 ## Creating lab
-Lunch install
+<u>Needing sudo password and password for openssl encryption</u>
 ```
 ./install.sh
 ```
