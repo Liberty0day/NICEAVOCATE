@@ -19,3 +19,8 @@ then
 else
     printf "${RED}[-] no start ${LAB}\n"
 fi
+
+#To Encrypt:
+# openssl enc -aes-256-cbc -in drive -out drive.dat
+#To Decrypt:
+# openssl enc -d -aes-256-cbc -in drive.dat -out drive_decoded.dat
