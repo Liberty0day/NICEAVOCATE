@@ -1,6 +1,7 @@
 # NICEAVOCATE
 ## Virtualized infrastructure lab
-NOTE: This page is under construction!
+NOTE: I update soon the script for download without google drive ..
+
 
 This page provides guidance to install a lab :
 - Windows 7
