@@ -94,4 +94,6 @@ Insert in the menu the number 1 for start install and wait.
  1
 ```
 
+## VIDEO
   
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qbGN11UBMwk/mqdefault.webp?v=620c75c6&sqp=CJTrsZAG&rs=AOn4CLBOPOj1yo1bK8fpB_1I28dqTuopTA)](https://www.youtube.com/watch?v=qbGN11UBMwk)
