@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source install.config
-printf "${GREEN}--[ Version ${FRAMEWORK_VERSION}\n"
+printf "${GREEN}--[ NA Version ${FRAMEWORK_VERSION}\n"
 printf "${GREEN}\n"
 printf "${GREEN}[*] Intitializing ${FRAMEWORK_NAME} ${FRAMEWORK_VERSION}\n"
 
@@ -11,7 +11,8 @@ then
     LAB_EXIST
     CHECK_REQUIREMENTS
     clear
-    printf "${GREEN}--[ ${FRAMEWORK_NAME} ${FRAMEWORK_VERSION}\n"
+    printf "${GREEN}--[ ${FRAMEWORK_NAME} Version ${FRAMEWORK_VERSION}\n"
+    printf "\n"
     SUDO_PASSWORD
     clear
     DECODE
