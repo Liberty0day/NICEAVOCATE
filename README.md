@@ -51,15 +51,16 @@ Insert in the menu the number 1 for start install and wait.
 ### MENU_INSTALL
 
 ```
---[ niceavocate 0.0.3
-[+] The Installation is operational
+--[ NA Version 0.0.3
 
-[1] Install full lab
-[2] Do you wan start the machine after the lab is install ?
-[3] Remove all lab and restore original configuration
+[ + ] The Installation is operational
 
-[?] Give your choice
-[!] Example : 1
+[ 1 ] Install full lab
+[ 2 ] Do you wan start the machine after the lab is install ?
+[ 3 ] Remove all lab and restore original configuration
+
+[ ? ] Give me your choice
+[ ! ] Example : 1
 ```
 
 ```
@@ -68,12 +69,13 @@ Insert in the menu the number 1 for start install and wait.
  ### MENU
  
  ```
---[ niceavocate 0.0.3
+--[ NA Version 0.0.3
+
 1) Windows 7 2) Windows 10 3) Kali Linux 4) Metasploitable 2
 5) Start or stop all machine of the lab
 
-[?] Give me your choice
-[!] Example : 1
+[ ? ] Give me your choice
+[ ! ] Example : 1
 ```
 
 ```
@@ -82,12 +84,13 @@ Insert in the menu the number 1 for start install and wait.
 ### REMOVE_LAB
 
  ```
---[ niceavocate 0.0.3
-[+] Remove all machines 
-  1)  Remove all machines 2) Remove step by step
+--[ NA Version 0.0.3
 
-[?] Give me your choice
-[!] Example : 1
+1) Windows 7 2) Windows 10 3) Kali Linux 4) Metasploitable 2
+5) Start or stop all machine of the lab
+
+[ ? ] Give me your choice
+[ ! ] Example : 1
 ```
 
 ```
