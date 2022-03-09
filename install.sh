@@ -2,6 +2,7 @@
 
 source install.config
 printf "${GREEN}--[ Version ${FRAMEWORK_VERSION}\n"
+printf "${GREEN}\n"
 printf "${GREEN}[*] Intitializing ${FRAMEWORK_NAME} ${FRAMEWORK_VERSION}\n"
 
 if [ ${LAB} = "Y" ]
